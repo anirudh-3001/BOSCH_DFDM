@@ -1,0 +1,16 @@
+name: bosch_dfm
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pythonocc-core>=7.7
+  - numpy
+  - scipy
+  - pip
+  - pip:
+    - streamlit>=1.30
+    - plotly>=5.18
+    - pandas>=2.0
+    - pyvista>=0.43
+    - networkx>=3.0

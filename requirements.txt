@@ -1,0 +1,9 @@
+# Core dependencies (all installable via pip)
+cadquery>=2.7.0
+streamlit>=1.30
+plotly>=5.18
+numpy>=1.24
+scipy>=1.11
+pandas>=2.0
+pyvista>=0.43
+networkx>=3.0
